@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_AdeWebApp01_name": {
+            "value": "AdeWebApp01"
+        },
+        "sites_AdeWebApp02_name": {
+            "value": "AdeWebApp02"
+        },
+        "sites_AdeWebApp03_name": {
+            "value": "AdeWebApp03"
+        },
+        "serverfarms_ASP_AdeLabRG01_850c_name": {
+            "value": "ASP_AdeLabRG01_850c"
+        }
+    }
+}
